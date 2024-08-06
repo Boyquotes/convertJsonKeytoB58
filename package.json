@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bs58": "^6.0.0"
+  }
+}
